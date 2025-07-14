@@ -25,4 +25,4 @@ Adobe Premiere Pro | After Effects | Photoshop | Illustrator | Lightroom | DaVin
 ## 🌐 Links
 - [Full Visual Portfolio](https://prasannastudio.my.canva.site/)
 - [Previous Clients](https://prasannastudio.my.canva.site/previous-client)
-- [Video Samples (YouTube)]((https://prasannastudio.my.canva.site/#content-creation))
+- [Video Samples (YouTube)](https://prasannastudio.my.canva.site/#content-creation )
